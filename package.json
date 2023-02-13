@@ -1,6 +1,7 @@
 {
   "name": "transport",
   "version": "0.1.0",
+  "install": "npm i",
   "engines": {
     "node": "18.x",
     "npm": "8.x"
